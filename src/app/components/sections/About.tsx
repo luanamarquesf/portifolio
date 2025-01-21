@@ -8,6 +8,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 import { Modal } from "../Modal";
+import Dots from "../Dots";
 
 export const AboutSection = () => {
   const [data, setData] = useState<CaseComponentProps[]>();
@@ -23,6 +24,7 @@ export const AboutSection = () => {
         setData(data);
       });
   }, []);
+  console.log(activeIndex, 'activeIndex')
   return (
     <section className={" p-6 text-center min-h-screen p-6 bg-[#f1f1f1] "}>
       <h1 className="text-2xl font-semibold mb-4">Experiences</h1>
@@ -41,13 +43,15 @@ export const AboutSection = () => {
       <Swiper
         spaceBetween={50}
         slidesPerView={1}
+        onSlideChange={(swipe) => setActiveIndex(swipe.activeIndex)}
       >
         {data?.map((item, index) => (
-          <SwiperSlide key={index} onFocus={() => setActiveIndex(index)}>
-            <CaseCard {...item} toggleModal={toggleModal} limitChar />
+          <SwiperSlide key={index}>
+            <CaseCard {...item} toggleModal={toggleModal} limitChar revertFlex={index % 2 !== 0}/>
           </SwiperSlide>
         ))}
       </Swiper>
+      <Dots activeIndex={activeIndex} totalDots={data?.length ?? 0}/>
       {isModalOpen && data?.[activeIndex] && (
         <Modal isOpen={isModalOpen} onClose={toggleModal}>
           <CaseCard

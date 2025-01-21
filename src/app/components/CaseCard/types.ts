@@ -16,4 +16,5 @@ export interface CaseComponentProps {
   cta: CtaProps;
   toggleModal: (value: boolean) => void;
   limitChar?: boolean;
+  revertFlex?: boolean;
 }
