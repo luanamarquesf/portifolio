@@ -1,0 +1,41 @@
+[
+  {
+    "label": {
+      "color": "#D30000",
+      "text": "APP"
+    },
+    "title": "Suno Research",
+    "description": "My journey in mobile development is defined by solid experience with React Native and Apollo CLI, where I had the opportunity to create and refine innovative applications. On the back-end, I contributed significantly by implementing new features using the robustness of GraphQL. Additionally, I focused on ensuring code quality by working with E2E testing through Appium and unit testing with Jest, always prioritizing excellence and efficiency in the development process.",
+    "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQkAAAC+CAMAAAARDgovAAAAw1BMVEUAAAD///8AAAK2trbDw8NQUFHHx8epqanOzs4AAwAAAAQNAADTICnJycmzs7Oenp5ubm6BgYH19fXu7u5zc3OSkpJDQ0N5eXnn5+cMDAw2NjbTICXLKjAsCQrSICTEKC5fX18ZGRlVVVU6OjobAAAoKCijo6NDFRdoICFAGx1hIyRxGh8SAACsKy/RJCxfGyGkLDFKERWBICOQJislBgS7KTBZFhayKS1KGBhkFRiXJyrb29s3Dg0sLCx8IiMXFxdRGBNO0neOAAAEvklEQVR4nO3abV+qSBgG8AEfUBhBVERFhcrKXZPTyczWhzrf/1PtYAY3Utmv3aZ5cf1fIZCDVzD3jcIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIBadJ3prC53TLOuC3LH/CRT6mh6Mpzk8D/jejr9S24UpvX3bDqRm/5JdXYzj4e/5Cahs9s4nMoc8TRxsf4eBuFIl5zEHQ9uLZlDfsZCHBSTO3sl8fPwt9QxT7tfBsGd9CRGy/FY9qinPMRBPGVyD0o3rTkfzy1TqSgWcTC8ZnKLuxhtEXMxrEpuVmMeTiSfE6JiTWMez5S6PLYhj1eyBzWTi5LzhVJJiCOK17IHFQFch5zPlaqjd2MuJvEjg6jjd6Izuuq8SV9FUbpYMeiW3e74vS46nmF4nS5dJ+50JkvOw9EXD/pbrMfJ9UpF1Ybhub7rVGtRttau0X3KjXRR83pOtqHUoLuxir0pe34U+U61VybvxnRrxYPh4389+v/TPODDf+gKZzN4Xdy1s3+3kUuiVE0Xte5Oi7INZbJXv0Sz9Hu1SzqwSOLha8f8LayVSII2e12NHK7bSxffT6LC3Fa2gSTR73n5wUqt15DFRLEWfYxKxWMSBkFI63qk9bMXJJaPkmDl9CVNYnMUhNivfVgQAdyJ4qFSl3kfBjzckhX9Njn+fiWN5cMkWMt93ZAl0WmzY2da9uZ3nMcqldHRcRJst7G7b+z4cRLn2uG8J0nUHFZQzS63J8659PL9gSSJ5Ta/rlOulfzjavhxEuzq8BFJEu2oOJzTSkuzaklsh0GwLJT1s0iUUOeCrjqRBDuU0iyJZ+28OJyjpYVpxnmgUhKjN5PYa9Z6pGc6lcSZFu03kHOiU3xPo5VOPE9BoNQ5sU9i+87GSjoRis6qSrfYpLN6SeJQSkkSjVLxHXtZnk+BWlfHvWj/8zNmlzTZleyyNnLNY/GcOJRSkkSkFUaraFG6nMwTi68c8jcR7X++n2CtiLxIPyZrtuhOpGfKdknOINpPGLTffPkzO1sWVZQXbnh+UKHHzPVDneyyZr2rbL2fnSskiaSU5rptm3zw/VvT62XNg6Mbnh8m7jviXPtfaaUzXbNNpv/LnvEai9ciZSVLIiml+emkWW0+vy6feRufbrsVSah038HWwfG96KBcK5dswzBKxmVug1Oz3WbTtTc2vV8nSbBaeXOV+xPm2obj+r57VW54pI1ndbYSbb5S324/xTw+vlz7g263e3FZ3Lnie557/pxbt6MfsNlkxy7PXcfxokFuZT2ZoPg75fuHPMRj+d9ZiSS2Q87nN8r8IKib7DoM4rnscUUAf4ZJO6HMDZhIYrISZ+lE9rg6m+2/21YmCt3U9793vNdkft/Ah59ZlEoi+eFBfjWzbvl4ZemSn9t4l54cSdJvy/7uyGSj5f4rdVWeq9knIZq9+NaS/EyNmDDHSTehThLJkTwMRWGX+1utLu6/xvMbdZJ4Yc358JfcJ61M0WvHij1Tk/x/HmezR7mzeN2aPk0nSp0Pif0BSX5qIDkBTUXqRs7+kUy5I5pMrcdIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgLf8CAl1SJYyT1RUAAAAASUVORK5CYII=",
+    "cta": {
+      "text": "Explore",
+      "onClick": null
+    }
+  },
+  {
+    "label": {
+      "color": "#33C3FF",
+      "text": "APP / WEB"
+    },
+    "description": "I actively contributed to the development of a mobile application using React Native, focusing on creating an intuitive and user-friendly experience. A key feature of this app involved extensive work with Maps and Location Services, allowing users to navigate seamlessly and optimize their experience.This project encouraged a balance between creativity and technical expertise, as we tackled a real-world problem faced by professors. The application, named SisCarona, was specifically designed to facilitate carpooling for UNESP professors, fostering community connections while offering a practical and efficient solution to daily transportation challenges. Through this journey, I not only deepened my expertise in React Native and geolocation tools but also honed my skills in problem-solving, team collaboration, and addressing user-specific needs with innovation and precision.",
+    "title": "UNESP",
+    "imageUrl": "/files/Siscarona.png",
+    "cta": {
+      "text": "Explore",
+      "onClick": null
+    }
+  },
+  {
+    "label": {
+      "color": "#8D33FF",
+      "text": "Trending"
+    },
+    "description": "Check out what's trending right now.",
+    "title": "Hot Trends",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLar0YW4dBptosdyg4eaT3RUdKhaTfrhYi9rOzzriPPaA7ZNrn2hzstY&s",
+    "cta": {
+      "text": "Explore",
+      "onClick": null
+    }
+  }
+]
