@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+* {
+  scrollbar-width: thin; 
+  scrollbar-color: #e7e7e7 #f5f5f5; 
+}

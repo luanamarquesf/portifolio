@@ -1,4 +1,4 @@
-"use client"; // Adicionando 'use client' para o componente funcionar no lado do cliente
+"use client";
 
 import React from "react";
 

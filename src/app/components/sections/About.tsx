@@ -24,7 +24,6 @@ export const AboutSection = () => {
         setData(data);
       });
   }, []);
-  console.log(activeIndex, 'activeIndex')
   return (
     <section className={" p-6 text-center min-h-screen p-6 bg-[#f1f1f1] "}>
       <h1 className="text-2xl font-semibold mb-4">Experiences</h1>
